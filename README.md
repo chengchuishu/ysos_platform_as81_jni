@@ -1,0 +1,2 @@
+# ysos_platform_as81_jni
+ysos_platform_as81_jni
